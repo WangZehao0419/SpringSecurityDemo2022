@@ -1,0 +1,16 @@
+HELP.md
+**/target/
+**/.gitignore
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+
+
